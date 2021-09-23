@@ -5,3 +5,5 @@
 
 1. Cards-Sources
 2. Drag & Drop
+3. Slider
+4. Board Source
