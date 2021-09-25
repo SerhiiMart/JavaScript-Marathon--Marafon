@@ -1,4 +1,5 @@
-### JavaScript-Marathon--Marafon7-
+### JavaScript Marathon  
+
 
 
 ## JS-Marathon "Марафон: 5 дней 5 проектов " from Vladilen Minin
@@ -8,3 +9,6 @@
 3. Slider
 4. Board Source
 5. AIM Game
+
+
+* P.S. Was too easy
