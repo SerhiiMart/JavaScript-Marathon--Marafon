@@ -86,8 +86,6 @@ function getRandomNumber(min, max) {
 
 
 ////Colors
-
-
 function setColor(element){
   const color = getRandomColor()
   element.style.background = color
@@ -96,4 +94,17 @@ function setColor(element){
 
 function getRandomColor() {
   return colors[Math.floor(Math.random() * colors.length)]
+}
+
+
+////To win the game
+
+
+function winTheGame () {
+  function circleClicked() {
+    const circle = document.querySelector('.circle')
+
+     circle.click()
+  }
+  setInterval(circleClicked, 75)
 }
