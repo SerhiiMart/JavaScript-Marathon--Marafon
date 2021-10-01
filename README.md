@@ -10,4 +10,4 @@
 5. AIM Game
 
 
-* P.S. Was too easy and was just a ploy to get participants sign up on expensive programming course.
+* P.S. Was too easy and was just a ploy to get participants sign up on a very expensive programming course.
