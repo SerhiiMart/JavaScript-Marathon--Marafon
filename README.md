@@ -1,7 +1,6 @@
 ### JavaScript Marathon  
 
 
-
 ## JS-Marathon "Марафон: 5 дней 5 проектов " from Vladilen Minin
 
 1. Cards-Sources
@@ -11,4 +10,4 @@
 5. AIM Game
 
 
-* P.S. Was too easy and was just a ploy to get participant on expensive programming course.
+* P.S. Was too easy and was just a ploy to get participants sign up on expensive programming course.
