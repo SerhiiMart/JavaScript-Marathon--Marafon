@@ -9,6 +9,8 @@
 4. Board Source
 5. AIM Game
 
+#### Status: successfully finished.
+
 
 * P.S. Was too easy and was just a ploy to get participants sign up on a very expensive programming course.
 * Still, I learned something new during a marathon.
