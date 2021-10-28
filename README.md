@@ -13,4 +13,4 @@
 
 
 * P.S. Was too easy and was just a ploy to get participants sign up on a very expensive programming course.
-* Still, I learned great deal during the marathon.
+* Still, I learned great deal during this marathon.
